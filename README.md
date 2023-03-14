@@ -30,3 +30,4 @@ The purpose of the project entitled as “HOSPITAL MANAGEMENT SYSTEM” is to co
 
 ![](Aspose.Words.5243efa8-42d5-49f8-b5f8-a1afbadbb7d5.007.png)
 
+
